@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrayTimer", "PrayTimer.csproj", "{9AE2152D-A94F-4F6E-9209-FECE3575268A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE2152D-A94F-4F6E-9209-FECE3575268A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE2152D-A94F-4F6E-9209-FECE3575268A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE2152D-A94F-4F6E-9209-FECE3575268A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE2152D-A94F-4F6E-9209-FECE3575268A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B447E2-47DB-4F96-8BCE-4345DD37C562}
+	EndGlobalSection
+EndGlobal
