@@ -1,6 +1,7 @@
-# Muslim Prayer Timer Application  
+#Prayer Timer Application  
 
-A simple yet effective C# application built using the .NET Framework to help users keep track of the five daily prayers in Islam. The app provides timely notifications with a bell sound when it's time for the next prayer.  
+A simple yet effective C# application built using the .NET Framework to help users keep track of the daily prayers.  
+The app provides timely notifications with a bell sound when it's time for the next prayer.  
 
 ## Features  
 - **Automatic Prayer Time Calculation**: Updates prayer times based on the current time.  
